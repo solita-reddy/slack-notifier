@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solita.Slack.Notifier", "Solita.Slack.Notifier\Solita.Slack.Notifier.csproj", "{0C97ABE7-627A-4088-8AFF-839F1B938BF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solita.Slack.Notifier", "Solita.Slack.Notifier\Solita.Slack.Notifier.csproj", "{0C97ABE7-627A-4088-8AFF-839F1B938BF0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solita.Slack.Notifier.Tests", "Solita.Slack.Notifier.Tests\Solita.Slack.Notifier.Tests.csproj", "{FA354EE2-4AC8-4C7F-994E-4B741E106D86}"
 EndProject
